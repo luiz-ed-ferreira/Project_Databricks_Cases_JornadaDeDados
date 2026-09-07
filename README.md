@@ -15,13 +15,13 @@ Completed
 - [x] Act 2
 - [x] Act 3
 
-> Attention! Consult the following link for more information about the program: <a href="https://www.youtube.com/watch v=0kJwAhSZFy0&list=PL3WY3Y8Zc6wSKjTvxkb9XrQeKE5-5MktZ">Intensivo Databricks - Jornada de Dados</a>
+> Attention! Consult the following link for more information about the program: <a href="https://www.youtube.com/playlist?list=PL3WY3Y8Zc6wSKjTvxkb9XrQeKE5-5MktZ">Intensivo Databricks - Jornada de Dados</a>
 
 ### Prerequisites & used softwares
 
 - Databricks Account
 
-> Attention! Consult the following link for more information about how to use databricks:  <a href="https://www.youtube.com/playlist?list=PL3WY3Y8Zc6wSKjTvxkb9XrQeKE5-5MktZ">Databricks with GitHub</a>
+> Attention! Check the following link for more information on how to use Databricks:  <a href="https://www.databricks.com/br/learn/free-edition">Databricks free version</a>
 
 ### Collaborators
 
