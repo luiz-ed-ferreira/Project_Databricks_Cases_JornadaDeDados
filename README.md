@@ -21,7 +21,7 @@ Completed
 
 - Databricks Account
 
-> Attention! Consult the following link for more information about how to use databricks:  <a href="https://docs.databricks.com/aws/pt/repos/get-access-tokens-from-git-provider">Databricks with GitHub</a>
+> Attention! Consult the following link for more information about how to use databricks:  <a href="https://www.youtube.com/playlist?list=PL3WY3Y8Zc6wSKjTvxkb9XrQeKE5-5MktZ">Databricks with GitHub</a>
 
 ### Collaborators
 
